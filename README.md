@@ -5,7 +5,7 @@
 # Items Board
 ![alt text](./demo.png)
 
-###Build with svelte js
+### Build with svelte js
 ## Get started
 
 Install the dependencies...
